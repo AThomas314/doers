@@ -1,0 +1,15 @@
+[package]
+name = "doers"
+version = "0.1.0"
+edition = "2024"
+authors = ["Ashish Thomas <ashishthomassm@gmail.com>"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/AThomas314/doers"
+readme = "README.md"
+
+[dependencies]
+ndarray = "0.17.2"
+ndarray-linalg = "0.18.1"
+rand = "0.10.3"
+rand_distr = "0.6.0"
+thiserror = "2.0.21"
